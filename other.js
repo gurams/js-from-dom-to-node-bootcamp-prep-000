@@ -1,1 +1,1 @@
-console.log(model.name);
+console.log(module.name);
