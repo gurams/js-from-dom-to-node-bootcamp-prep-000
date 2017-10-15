@@ -1,7 +1,7 @@
 //eneter your code
 console.log("Hello, world!");
 
-var name = "Ram";
+var name = "suan";
 var height = "70";
 module.exports={name,height};
 
