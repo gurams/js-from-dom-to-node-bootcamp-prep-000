@@ -1,1 +1,1 @@
-console.log(module.name);
+console.log(module.name.text);
